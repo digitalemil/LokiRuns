@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">LokiRuns</string>
+    <string id="CLOUDRUN_ENDPOINT">{CLOUDRUN_ENDPOINT}</string>
+    <string id="API_KEY">{API_KEY}</string>
+    <string id="prompt">---</string>
+</strings>

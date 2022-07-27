@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">LokiRuns</string>
+    <string id="CLOUDRUN_ENDPOINT">https://thegym.theblackapp.de/collect</string>
+    <string id="API_KEY">key</string>
+    <string id="prompt">---</string>
+</strings>

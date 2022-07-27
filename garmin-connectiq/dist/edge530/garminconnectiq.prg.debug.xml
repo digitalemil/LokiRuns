@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/emil/src/LokiRuns/garmin-connectiq/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="1" lineNum="19" parent="globals/LokiRunsApp" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="1" lineNum="20" parent="globals/LokiRunsApp" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="2" lineNum="24" parent="globals/LokiRunsApp" pc="268435479" symbol="onStart"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="2" lineNum="25" parent="globals/LokiRunsApp" pc="268435483" symbol="onStart"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="2" lineNum="26" parent="globals/LokiRunsApp" pc="268435495" symbol="onStart"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="3" lineNum="31" parent="globals/LokiRunsApp" pc="268435508" symbol="onStop"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="4" lineNum="35" parent="globals/LokiRunsApp" pc="268435513" symbol="getInitialView"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="4" lineNum="36" parent="globals/LokiRunsApp" pc="268435517" symbol="getInitialView"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="4" lineNum="37" parent="globals/LokiRunsApp" pc="268435547" symbol="getInitialView"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="5" lineNum="40" parent="globals/LokiRunsApp" pc="268435601" symbol="initializePositionListener"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="5" lineNum="41" parent="globals/LokiRunsApp" pc="268435605" symbol="initializePositionListener"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="6" lineNum="44" parent="globals/LokiRunsApp" pc="268435654" symbol="onPosition"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="6" lineNum="45" parent="globals/LokiRunsApp" pc="268435658" symbol="onPosition"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="6" lineNum="46" parent="globals/LokiRunsApp" pc="268435687" symbol="onPosition"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="6" lineNum="47" parent="globals/LokiRunsApp" pc="268435712" symbol="onPosition"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="6" lineNum="48" parent="globals/LokiRunsApp" pc="268435758" symbol="onPosition"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="7" lineNum="52" parent="globals/LokiRunsApp" pc="268435774" symbol="sensorInitialize"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="7" lineNum="53" parent="globals/LokiRunsApp" pc="268435778" symbol="sensorInitialize"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="7" lineNum="54" parent="globals/LokiRunsApp" pc="268435820" symbol="sensorInitialize"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="57" parent="globals/LokiRunsApp" pc="268435853" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="58" parent="globals/LokiRunsApp" pc="268435857" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="59" parent="globals/LokiRunsApp" pc="268435873" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="60" parent="globals/LokiRunsApp" pc="268435902" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="61" parent="globals/LokiRunsApp" pc="268435918" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="62" parent="globals/LokiRunsApp" pc="268435934" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="63" parent="globals/LokiRunsApp" pc="268435950" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="64" parent="globals/LokiRunsApp" pc="268435966" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="65" parent="globals/LokiRunsApp" pc="268435988" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="66" parent="globals/LokiRunsApp" pc="268436010" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="67" parent="globals/LokiRunsApp" pc="268436032" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="68" parent="globals/LokiRunsApp" pc="268436054" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="69" parent="globals/LokiRunsApp" pc="268436076" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="78" parent="globals/LokiRunsApp" pc="268436098" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="79" parent="globals/LokiRunsApp" pc="268436114" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="80" parent="globals/LokiRunsApp" pc="268436130" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="81" parent="globals/LokiRunsApp" pc="268436146" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="82" parent="globals/LokiRunsApp" pc="268436159" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="84" parent="globals/LokiRunsApp" pc="268436175" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="85" parent="globals/LokiRunsApp" pc="268436188" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="87" parent="globals/LokiRunsApp" pc="268436204" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="88" parent="globals/LokiRunsApp" pc="268436217" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="90" parent="globals/LokiRunsApp" pc="268436233" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="91" parent="globals/LokiRunsApp" pc="268436259" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="8" lineNum="92" parent="globals/LokiRunsApp" pc="268436291" symbol="onSensor"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="97" parent="globals/LokiRunsApp" pc="268436307" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="98" parent="globals/LokiRunsApp" pc="268436311" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="100" parent="globals/LokiRunsApp" pc="268436328" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="101" parent="globals/LokiRunsApp" pc="268436372" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="104" parent="globals/LokiRunsApp" pc="268436376" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="105" parent="globals/LokiRunsApp" pc="268436386" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="106" parent="globals/LokiRunsApp" pc="268436409" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="108" parent="globals/LokiRunsApp" pc="268436431" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="109" parent="globals/LokiRunsApp" pc="268436445" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="111" parent="globals/LokiRunsApp" pc="268436479" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="112" parent="globals/LokiRunsApp" pc="268436492" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="113" parent="globals/LokiRunsApp" pc="268436508" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="114" parent="globals/LokiRunsApp" pc="268436524" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="115" parent="globals/LokiRunsApp" pc="268436544" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="117" parent="globals/LokiRunsApp" pc="268436572" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="118" parent="globals/LokiRunsApp" pc="268436592" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="121" parent="globals/LokiRunsApp" pc="268436623" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="122" parent="globals/LokiRunsApp" pc="268436643" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="124" parent="globals/LokiRunsApp" pc="268436665" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="125" parent="globals/LokiRunsApp" pc="268436685" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="127" parent="globals/LokiRunsApp" pc="268436707" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="128" parent="globals/LokiRunsApp" pc="268436727" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="130" parent="globals/LokiRunsApp" pc="268436755" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="131" parent="globals/LokiRunsApp" pc="268436775" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="134" parent="globals/LokiRunsApp" pc="268436803" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="135" parent="globals/LokiRunsApp" pc="268437083" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="136" parent="globals/LokiRunsApp" pc="268437096" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="138" parent="globals/LokiRunsApp" pc="268437115" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="139" parent="globals/LokiRunsApp" pc="268437128" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="140" parent="globals/LokiRunsApp" pc="268437150" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="142" parent="globals/LokiRunsApp" pc="268437175" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="143" parent="globals/LokiRunsApp" pc="268437188" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="146" parent="globals/LokiRunsApp" pc="268437207" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="150" parent="globals/LokiRunsApp" pc="268437228" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="151" parent="globals/LokiRunsApp" pc="268437272" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="152" parent="globals/LokiRunsApp" pc="268437282" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="153" parent="globals/LokiRunsApp" pc="268437293" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="155" parent="globals/LokiRunsApp" pc="268437306" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="156" parent="globals/LokiRunsApp" pc="268437316" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="157" parent="globals/LokiRunsApp" pc="268437327" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="159" parent="globals/LokiRunsApp" pc="268437340" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="160" parent="globals/LokiRunsApp" pc="268437350" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="161" parent="globals/LokiRunsApp" pc="268437361" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="163" parent="globals/LokiRunsApp" pc="268437374" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="164" parent="globals/LokiRunsApp" pc="268437384" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="165" parent="globals/LokiRunsApp" pc="268437395" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="167" parent="globals/LokiRunsApp" pc="268437408" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="168" parent="globals/LokiRunsApp" pc="268437418" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="169" parent="globals/LokiRunsApp" pc="268437429" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="172" parent="globals/LokiRunsApp" pc="268437442" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="183" parent="globals/LokiRunsApp" pc="268437538" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="189" parent="globals/LokiRunsApp" pc="268437589" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="192" parent="globals/LokiRunsApp" pc="268437621" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="194" parent="globals/LokiRunsApp" pc="268437643" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="199" parent="globals/LokiRunsApp" pc="268437735" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="9" lineNum="200" parent="globals/LokiRunsApp" pc="268437753" symbol="makeRequest"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="10" lineNum="203" parent="globals/LokiRunsApp" pc="268437792" symbol="onReceive"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="10" lineNum="204" parent="globals/LokiRunsApp" pc="268437796" symbol="onReceive"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="10" lineNum="205" parent="globals/LokiRunsApp" pc="268437807" symbol="onReceive"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="10" lineNum="208" parent="globals/LokiRunsApp" pc="268437833" symbol="onReceive"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="10" lineNum="209" parent="globals/LokiRunsApp" pc="268437859" symbol="onReceive"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="11" lineNum="11" parent="globals/LokiRunsApp" pc="268439578" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="11" lineNum="15" parent="globals/LokiRunsApp" pc="268439596" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="11" lineNum="15" parent="globals/LokiRunsApp" pc="268439612" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="11" lineNum="15" parent="globals/LokiRunsApp" pc="268439628" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="11" lineNum="15" parent="globals/LokiRunsApp" pc="268439644" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="11" lineNum="15" parent="globals/LokiRunsApp" pc="268439660" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="11" lineNum="15" parent="globals/LokiRunsApp" pc="268439676" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="11" lineNum="15" parent="globals/LokiRunsApp" pc="268439692" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="11" lineNum="16" parent="globals/LokiRunsApp" pc="268439708" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsApp.mc" id="11" lineNum="11" parent="globals/LokiRunsApp" pc="268439578" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="13" lineNum="9" parent="globals/LokiRunsView" pc="268437880" symbol="initialize"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="13" lineNum="10" parent="globals/LokiRunsView" pc="268437884" symbol="initialize"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="14" lineNum="13" parent="globals/LokiRunsView" pc="268437903" symbol="onLayout"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="14" lineNum="14" parent="globals/LokiRunsView" pc="268437907" symbol="onLayout"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="14" lineNum="15" parent="globals/LokiRunsView" pc="268437944" symbol="onLayout"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="14" lineNum="16" parent="globals/LokiRunsView" pc="268437968" symbol="onLayout"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="14" lineNum="17" parent="globals/LokiRunsView" pc="268437991" symbol="onLayout"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="14" lineNum="18" parent="globals/LokiRunsView" pc="268438015" symbol="onLayout"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="14" lineNum="19" parent="globals/LokiRunsView" pc="268438038" symbol="onLayout"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="14" lineNum="20" parent="globals/LokiRunsView" pc="268438062" symbol="onLayout"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="14" lineNum="21" parent="globals/LokiRunsView" pc="268438085" symbol="onLayout"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="14" lineNum="22" parent="globals/LokiRunsView" pc="268438109" symbol="onLayout"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="15" lineNum="25" parent="globals/LokiRunsView" pc="268438133" symbol="updateHR"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="15" lineNum="26" parent="globals/LokiRunsView" pc="268438137" symbol="updateHR"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="15" lineNum="27" parent="globals/LokiRunsView" pc="268438160" symbol="updateHR"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="15" lineNum="28" parent="globals/LokiRunsView" pc="268438186" symbol="updateHR"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="16" lineNum="32" parent="globals/LokiRunsView" pc="268438206" symbol="updateSpeed"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="16" lineNum="33" parent="globals/LokiRunsView" pc="268438210" symbol="updateSpeed"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="16" lineNum="34" parent="globals/LokiRunsView" pc="268438233" symbol="updateSpeed"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="16" lineNum="35" parent="globals/LokiRunsView" pc="268438259" symbol="updateSpeed"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="17" lineNum="39" parent="globals/LokiRunsView" pc="268438279" symbol="updateLocation"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="17" lineNum="40" parent="globals/LokiRunsView" pc="268438283" symbol="updateLocation"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="17" lineNum="41" parent="globals/LokiRunsView" pc="268438332" symbol="updateLocation"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="17" lineNum="42" parent="globals/LokiRunsView" pc="268438358" symbol="updateLocation"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="17" lineNum="43" parent="globals/LokiRunsView" pc="268438384" symbol="updateLocation"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="18" lineNum="47" parent="globals/LokiRunsView" pc="268438404" symbol="onShow"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="19" lineNum="50" parent="globals/LokiRunsView" pc="268438409" symbol="onUpdate"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="19" lineNum="51" parent="globals/LokiRunsView" pc="268438413" symbol="onUpdate"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="20" lineNum="54" parent="globals/LokiRunsView" pc="268438434" symbol="onHide"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="21" lineNum="3" parent="globals/LokiRunsView" pc="268439559" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsView.mc" id="21" lineNum="3" parent="globals/LokiRunsView" pc="268439559" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsMenuDelegate.mc" id="23" lineNum="6" parent="globals/LokiRunsMenuDelegate" pc="268438439" symbol="initialize"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsMenuDelegate.mc" id="23" lineNum="7" parent="globals/LokiRunsMenuDelegate" pc="268438443" symbol="initialize"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsMenuDelegate.mc" id="24" lineNum="10" parent="globals/LokiRunsMenuDelegate" pc="268438462" symbol="onMenuItem"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsMenuDelegate.mc" id="25" lineNum="4" parent="globals/LokiRunsMenuDelegate" pc="268439767" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsMenuDelegate.mc" id="25" lineNum="4" parent="globals/LokiRunsMenuDelegate" pc="268439767" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsDelegate.mc" id="27" lineNum="5" parent="globals/LokiRunsDelegate" pc="268438467" symbol="initialize"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsDelegate.mc" id="27" lineNum="6" parent="globals/LokiRunsDelegate" pc="268438471" symbol="initialize"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsDelegate.mc" id="28" lineNum="9" parent="globals/LokiRunsDelegate" pc="268438490" symbol="onMenu"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsDelegate.mc" id="28" lineNum="10" parent="globals/LokiRunsDelegate" pc="268438494" symbol="onMenu"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsDelegate.mc" id="28" lineNum="11" parent="globals/LokiRunsDelegate" pc="268438578" symbol="onMenu"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsDelegate.mc" id="29" lineNum="3" parent="globals/LokiRunsDelegate" pc="268439748" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/emil/src/LokiRuns/garmin-connectiq/source/LokiRunsDelegate.mc" id="29" lineNum="3" parent="globals/LokiRunsDelegate" pc="268439748" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="31" lineNum="2" parent="globals/Rez/Drawables" pc="268439534" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="32" lineNum="7" parent="globals/Rez/Fonts" pc="268439555" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="33" lineNum="9" parent="globals/Rez/JsonData" pc="268439557" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="34" lineNum="18" parent="globals/Rez/Layouts" pc="268438582" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="20" parent="globals/Rez/Layouts" pc="268438594" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="21" parent="globals/Rez/Layouts" pc="268438706" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="22" parent="globals/Rez/Layouts" pc="268438746" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="23" parent="globals/Rez/Layouts" pc="268438911" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="24" parent="globals/Rez/Layouts" pc="268439076" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="25" parent="globals/Rez/Layouts" pc="268439241" symbol="MainLayout"/>
+        <entry filename="Rez" id="34" lineNum="27" parent="globals/Rez/Layouts" pc="268439406" symbol="MainLayout"/>
+        <entry filename="Rez" id="35" lineNum="11" parent="globals/Rez/Layouts" pc="268439556" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="36" lineNum="41" parent="globals/Rez/Menus/MainMenu" pc="268439464" symbol="initialize"/>
+        <entry filename="Rez" id="36" lineNum="42" parent="globals/Rez/Menus/MainMenu" pc="268439468" symbol="initialize"/>
+        <entry filename="Rez" id="36" lineNum="43" parent="globals/Rez/Menus/MainMenu" pc="268439486" symbol="initialize"/>
+        <entry filename="Rez" id="37" lineNum="39" parent="globals/Rez/Menus/MainMenu" pc="268439536" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="37" lineNum="39" parent="globals/Rez/Menus/MainMenu" pc="268439536" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="38" lineNum="32" parent="globals/Rez/Menus" pc="268439535" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="39" lineNum="49" parent="globals/Rez/Strings" pc="268439558" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="40" lineNum="1" parent="globals/Rez" pc="268439510" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="40" lineNum="1" parent="globals/Rez" pc="268439510" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="41" symbol="lastrequest"/>
+        <entry id="8389346" symbol="text"/>
+        <entry field="true" id="39" symbol="oxygenSat"/>
+        <entry field="true" id="28" symbol="START"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="42" method="true" symbol="initializePositionListener"/>
+        <entry id="18" method="true" symbol="MainLayout"/>
+        <entry id="12" object="true" symbol="LokiRunsDelegate"/>
+        <entry id="43" method="true" symbol="onPosition"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="8388962" symbol="temperature"/>
+        <entry field="true" id="22" symbol="AppName"/>
+        <entry field="true" id="8388963" symbol="altitude"/>
+        <entry field="true" id="21" symbol="URL"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389594" symbol="headers"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="8388935" method="true" symbol="duration"/>
+        <entry field="true" id="8388964" symbol="pressure"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="20" symbol="prompt"/>
+        <entry field="true" id="8388959" symbol="cadence"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="25" method="true" symbol="updateSpeed"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry field="true" id="8389314" symbol="latitude"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="48" symbol="item_1"/>
+        <entry id="14" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry field="true" id="23" symbol="hr"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="46" method="true" symbol="makeRequest"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="8389306" symbol="lon"/>
+        <entry id="8388637" module="true" symbol="Communications"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="17" object="true" symbol="MainMenu"/>
+        <entry field="true" id="29" symbol="dlon"/>
+        <entry id="8389844" symbol="responseType"/>
+        <entry id="10" object="true" symbol="LokiRunsView"/>
+        <entry field="true" id="8389305" symbol="lat"/>
+        <entry id="8388786" method="true" symbol="method"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry field="true" id="8389315" symbol="longitude"/>
+        <entry field="true" id="35" symbol="accelZ"/>
+        <entry field="true" id="34" symbol="accelY"/>
+        <entry field="true" id="33" symbol="accelX"/>
+        <entry field="true" id="30" symbol="dlat"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="47" method="true" symbol="onReceive"/>
+        <entry id="26" method="true" symbol="updateLocation"/>
+        <entry field="true" id="8388965" symbol="heading"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="38" symbol="magZ"/>
+        <entry field="true" id="37" symbol="magY"/>
+        <entry field="true" id="36" symbol="magX"/>
+        <entry id="45" method="true" symbol="onSensor"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="16" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="9" object="true" symbol="LokiRunsApp"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="15" symbol="id_thegym"/>
+        <entry id="8388643" module="true" symbol="Sensor"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="8388958" symbol="speed"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="8388961" symbol="power"/>
+        <entry field="true" id="27" symbol="view"/>
+        <entry id="24" method="true" symbol="updateHR"/>
+        <entry field="true" id="32" symbol="dhr"/>
+        <entry field="true" id="19" symbol="API_KEY"/>
+        <entry id="44" method="true" symbol="sensorInitialize"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="31" symbol="dspeed"/>
+        <entry id="13" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="40" symbol="location"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="11" object="true" symbol="LokiRunsMenuDelegate"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435507" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435512" name="state" stackId="1" startPc="268435508"/>
+        <entry arg="true" endPc="268435773" name="info" stackId="1" startPc="268435654"/>
+        <entry arg="true" endPc="268436306" name="sensorInfo" stackId="1" startPc="268435853"/>
+        <entry endPc="268437790" name="logs" stackId="20" startPc="268436311"/>
+        <entry endPc="268437790" name="now" stackId="1" startPc="268436311"/>
+        <entry endPc="268437790" name="logline" stackId="10" startPc="268436311"/>
+        <entry endPc="268437790" name="options" stackId="22" startPc="268436311"/>
+        <entry endPc="268437790" name="url" stackId="3" startPc="268436311"/>
+        <entry endPc="268437790" name="line" stackId="19" startPc="268436311"/>
+        <entry endPc="268437790" name="tdspeed" stackId="9" startPc="268436311"/>
+        <entry endPc="268437790" name="lons" stackId="4" startPc="268436311"/>
+        <entry endPc="268437790" name="s" stackId="17" startPc="268436311"/>
+        <entry endPc="268437790" name="tdhr" stackId="6" startPc="268436311"/>
+        <entry endPc="268437790" name="tdlon" stackId="8" startPc="268436311"/>
+        <entry endPc="268437790" name="m" stackId="13" startPc="268436311"/>
+        <entry endPc="268437790" name="tdlat" stackId="7" startPc="268436311"/>
+        <entry endPc="268437790" name="lats" stackId="5" startPc="268436311"/>
+        <entry endPc="268437790" name="h" stackId="15" startPc="268436311"/>
+        <entry endPc="268437790" name="today" stackId="12" startPc="268436311"/>
+        <entry endPc="268437790" name="d" stackId="14" startPc="268436311"/>
+        <entry endPc="268437790" name="labels" stackId="11" startPc="268436311"/>
+        <entry endPc="268437790" name="mi" stackId="16" startPc="268436311"/>
+        <entry endPc="268437790" name="responseCallback" stackId="23" startPc="268436311"/>
+        <entry endPc="268437790" name="dateString" stackId="18" startPc="268436311"/>
+        <entry endPc="268437790" name="key" stackId="21" startPc="268436311"/>
+        <entry endPc="268437790" name="user" stackId="2" startPc="268436311"/>
+        <entry arg="true" endPc="268437879" name="responseCode" stackId="1" startPc="268437792"/>
+        <entry arg="true" endPc="268437879" name="data" stackId="2" startPc="268437792"/>
+        <entry arg="true" endPc="268438132" name="dc" stackId="1" startPc="268437903"/>
+        <entry arg="true" endPc="268438205" name="text" stackId="1" startPc="268438133"/>
+        <entry arg="true" endPc="268438278" name="text" stackId="1" startPc="268438206"/>
+        <entry arg="true" endPc="268438403" name="lonText" stackId="1" startPc="268438279"/>
+        <entry arg="true" endPc="268438403" name="latText" stackId="2" startPc="268438279"/>
+        <entry arg="true" endPc="268438433" name="dc" stackId="1" startPc="268438409"/>
+        <entry arg="true" endPc="268438466" name="item" stackId="1" startPc="268438462"/>
+        <entry endPc="268439462" name="rez_cmp_local_text_lon" stackId="5" startPc="268438594"/>
+        <entry endPc="268439462" name="rez_cmp_local_text_speed" stackId="4" startPc="268438594"/>
+        <entry endPc="268439462" name="rez_cmp_local_text_hr" stackId="3" startPc="268438594"/>
+        <entry endPc="268439462" name="rez_cmp_local_text_lat" stackId="6" startPc="268438594"/>
+        <entry endPc="268439462" name="rez_cmp_local_bitmap_id_thegym" stackId="2" startPc="268438594"/>
+        <entry arg="true" endPc="268439463" name="dc" stackId="1" startPc="268438582"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_thegym"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="API_KEY"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="URL"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Rez" offset="166" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="245" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="292" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Menus/MainMenu" offset="331" parentId="Menus" symbolId="MainMenu" type="class"/>
+        <dataEntry label="globals/Rez/Fonts" offset="378" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="409" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="448" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="479" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/LokiRunsView" offset="542" parentId="globals" symbolId="LokiRunsView" type="class"/>
+        <dataEntry label="globals/LokiRunsApp" offset="677" parentId="globals" symbolId="LokiRunsApp" type="class"/>
+        <dataEntry label="globals/LokiRunsDelegate" offset="1004" parentId="globals" symbolId="LokiRunsDelegate" type="class"/>
+        <dataEntry label="globals/LokiRunsMenuDelegate" offset="1059" parentId="globals" symbolId="LokiRunsMenuDelegate" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="LokiRunsApp" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435507" name="onStart" parent="LokiRunsApp" startPc="268435479">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435512" name="onStop" parent="LokiRunsApp" startPc="268435508">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435600" name="getInitialView" parent="LokiRunsApp" startPc="268435513">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435653" name="initializePositionListener" parent="LokiRunsApp" startPc="268435601">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435773" name="onPosition" parent="LokiRunsApp" startPc="268435654">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435852" name="sensorInitialize" parent="LokiRunsApp" startPc="268435774">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436306" name="onSensor" parent="LokiRunsApp" startPc="268435853">
+            <param id="sensorInfo"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437791" name="makeRequest" parent="LokiRunsApp" startPc="268436307">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437879" name="onReceive" parent="LokiRunsApp" startPc="268437792">
+            <param id="responseCode"/>
+            <param id="data"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439747" name="&lt;init&gt;" parent="LokiRunsApp" startPc="268439578">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437902" name="initialize" parent="LokiRunsView" startPc="268437880">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438132" name="onLayout" parent="LokiRunsView" startPc="268437903">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438205" name="updateHR" parent="LokiRunsView" startPc="268438133">
+            <param id="text"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438278" name="updateSpeed" parent="LokiRunsView" startPc="268438206">
+            <param id="text"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438403" name="updateLocation" parent="LokiRunsView" startPc="268438279">
+            <param id="lonText"/>
+            <param id="latText"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438408" name="onShow" parent="LokiRunsView" startPc="268438404">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438433" name="onUpdate" parent="LokiRunsView" startPc="268438409">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438438" name="onHide" parent="LokiRunsView" startPc="268438434">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439577" name="&lt;init&gt;" parent="LokiRunsView" startPc="268439559">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438461" name="initialize" parent="LokiRunsMenuDelegate" startPc="268438439">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438466" name="onMenuItem" parent="LokiRunsMenuDelegate" startPc="268438462">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439785" name="&lt;init&gt;" parent="LokiRunsMenuDelegate" startPc="268439767">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438489" name="initialize" parent="LokiRunsDelegate" startPc="268438467">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438581" name="onMenu" parent="LokiRunsDelegate" startPc="268438490">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439766" name="&lt;init&gt;" parent="LokiRunsDelegate" startPc="268439748">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439534" name="&lt;init&gt;" parent="Drawables" startPc="268439534">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439555" name="&lt;init&gt;" parent="Fonts" startPc="268439555">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439557" name="&lt;init&gt;" parent="JsonData" startPc="268439557">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439463" name="MainLayout" parent="Layouts" startPc="268438582">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439556" name="&lt;init&gt;" parent="Layouts" startPc="268439556">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268439508" name="initialize" parent="MainMenu" startPc="268439464">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439554" name="&lt;init&gt;" parent="MainMenu" startPc="268439536">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439535" name="&lt;init&gt;" parent="Menus" startPc="268439535">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439558" name="&lt;init&gt;" parent="Strings" startPc="268439558">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268439533" name="&lt;init&gt;" parent="Rez" startPc="268439510">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

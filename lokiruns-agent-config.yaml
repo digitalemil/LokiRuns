@@ -1,0 +1,31 @@
+logs:
+  configs:
+    - clients:
+        - basic_auth:
+            password: ${PASSWORD}
+            username: ${USERNAME}
+          url: ${URL}
+      name: lokiruns
+      positions:
+        filename: /tmp/positions.yaml
+      scrape_configs:
+      target_config:
+        sync_period: 10s
+integrations:
+  app_agent_receiver_configs:
+    - autoscrape:
+        enable: false
+        metrics_instance: 'lokiruns'
+      instance: 'lokiruns'
+      logs_instance: 'lokiruns'
+      server:
+        host: 0.0.0.0
+        port: 3000
+        cors_allowed_origins:
+          - '*'
+        rate_limiting:
+          enabled: false
+        api_key: ${API_KEY}
+      logs_labels: 
+        app: lokiruns 
+        kind: 
