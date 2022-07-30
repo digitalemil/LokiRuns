@@ -1,8 +1,6 @@
 #!/bin/sh
 
 export VERSION=0.0.1
-export USERNAME=158892
-export URL=https://logs-prod-eu-west-0.grafana.net/loki/api/v1/push
 export PLATFORM=linux/amd64
 export GCP_REPO=eu.gcr.io
 export GCP_PROJECTID=thegym-263112

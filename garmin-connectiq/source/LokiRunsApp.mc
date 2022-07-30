@@ -108,13 +108,13 @@ function onSensor(sensorInfo) {
     var tdhr= hr, tdlat= 0, tdlon= 0, tdspeed= speed;
 
     if(location!= null) {
-		lons= location[0];
-		lats= location[1];
+		lons= location[1];
+		lats= location[0];
         if(dlat!= START) {
-            tdlat= dlat-location[1];
+            tdlat= dlat-location[0];
         }
         if(dlon!= START) {
-            tdlon=dlon- location[0];
+            tdlon=dlon- location[1];
         }
 	}
     if(dhr!= START) {
@@ -124,10 +124,10 @@ function onSensor(sensorInfo) {
         tdspeed= speed- dspeed;
     }
     if(dlat!= START) {
-        tdlat= location[1]- dlat;
+        tdlat= location[0]- dlat;
     }
     if(dlon!= START) {
-        tdlon= location[0]- dlon;
+        tdlon= location[1]- dlon;
     }
   
     var logline = "{\"heartrate\":"+hr+", \"deltaHeartrate\":"+tdhr+", \"deltaSpeed\":"+tdspeed+", \"deltaLongitude\":"+tdlon+", \"deltaLatitude\":"+tdlat+", \"temperature\":"+temperature+", \"pressure\":"+pressure+", \"power\":"+power+", \"magX\":"+magX+", \"magY\":"+magY+", \"magZ\":"+magZ+", \"accelX\":"+accelX+", \"accelY\":"+accelY+", \"accelZ\":"+accelZ+", \"speed\":"+speed+", \"cadence\":"+cadence+", \"altitude\":"+altitude+", \"heading\":"+heading+", \"longitude\":"+lons+", \"latitude\":"+lats+", \"user\":\""+user+"\"}";
@@ -135,8 +135,8 @@ function onSensor(sensorInfo) {
         dspeed= speed;
     }
     if(location!= null) {
-        dlat= location[1];
-        dlon= location[0];
+        dlat= location[0];
+        dlon= location[1];
     }
     if(hr!= null) {
         dhr= hr;
