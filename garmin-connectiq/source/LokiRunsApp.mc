@@ -58,7 +58,11 @@ function onSensor(sensorInfo) {
 	hr= sensorInfo.heartRate;
   	if(view != null && hr!= null) {
         speed= sensorInfo.speed;
+        if(speed== null)
+            speed= 0;
         altitude= sensorInfo.altitude;
+        if(altitude== null)
+            altitude= 0;
         heading= sensorInfo.heading;
         cadence= sensorInfo.cadence;
         accelX= sensorInfo.accel[0];

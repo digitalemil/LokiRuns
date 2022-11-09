@@ -11,13 +11,41 @@ logs:
       scrape_configs:
       target_config:
         sync_period: 10s
+metrics:
+  wal_directory: /tmp/wal
+  global: {}
+  configs:
+    - name: default
+      remote_write:
+        - url: ${METRICSURL}
+          basic_auth:
+            username: ${METRICSUSER}
+            password: ${METRICSPASSWORD}
+traces:
+  configs:
+    - name: default
+      remote_write:
+        - endpoint: ${TRACESENDPOINT}
+          basic_auth:
+            username: ${TRACESUSER}
+            password: ${TRACESPASSWORD}
+      receivers:
+        otlp:
+          protocols:
+            grpc:
+            http:
+              cors:
+                allowed_origins:
+                  - '*'
+                max_age: 7200
 integrations:
   app_agent_receiver_configs:
     - autoscrape:
-        enable: false
-        metrics_instance: 'lokiruns'
+        enable: true
+        metrics_instance: 'default'
       instance: 'lokiruns'
       logs_instance: 'lokiruns'
+      traces_instance: 'default'
       server:
         host: 0.0.0.0
         port: 3000
@@ -27,5 +55,8 @@ integrations:
           enabled: false
         api_key: ${API_KEY}
       logs_labels: 
-        app: lokiruns 
+        app: zbw
+        service: browser
         kind: 
+      sourcemaps:
+        download:
