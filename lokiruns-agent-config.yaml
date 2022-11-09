@@ -16,6 +16,10 @@ metrics:
   global: {}
   configs:
     - name: default
+      scrape_configs:
+        - job_name: local_scrape
+          static_configs:
+            - targets: ['127.0.0.1:12345']
       remote_write:
         - url: ${METRICSURL}
           basic_auth:
@@ -24,6 +28,8 @@ metrics:
 traces:
   configs:
     - name: default
+      service_graphs:
+        enabled: true
       remote_write:
         - endpoint: ${TRACESENDPOINT}
           basic_auth:
@@ -55,7 +61,7 @@ integrations:
           enabled: false
         api_key: ${API_KEY}
       logs_labels: 
-        app: zbw
+        app: alphacentauri
         service: browser
         kind: 
       sourcemaps:
