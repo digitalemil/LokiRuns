@@ -1,4 +1,4 @@
-FROM grafana/agent:v0.25.1
+FROM grafana/agent:main
 
 RUN apt-get update -y
 RUN apt-get upgrade -y 

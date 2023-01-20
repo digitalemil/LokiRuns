@@ -2,9 +2,9 @@ logs:
   configs:
     - clients:
         - basic_auth:
-            password: ${PASSWORD}
-            username: ${USERNAME}
-          url: ${URL}
+            password: ${LOGSPASSWORD}
+            username: ${LOGSUSER}
+          url: ${LOGSURL}
       name: lokiruns
       positions:
         filename: /tmp/positions.yaml
@@ -61,8 +61,8 @@ integrations:
           enabled: false
         api_key: ${API_KEY}
       logs_labels: 
-        app: alphacentauri
-        service: browser
-        kind: 
+        app: ${APP}
+        service: ${SERVICE}
+        kind: ${KIND}
       sourcemaps:
         download:
